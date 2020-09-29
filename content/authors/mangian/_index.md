@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Graduate Research Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Illinois, Urbana-Champaign
   url: "https://astro.illinois.edu/directory/profile/mangian3"
 
 # Short bio (displayed in user profile at end of posts)
