@@ -4,7 +4,7 @@ title: Amelia Christine Mangian
 
 # Username (this should match the folder name)
 authors:
-- admin
+- mangian
 
 # Is this the primary user of the site?
 superuser: true
