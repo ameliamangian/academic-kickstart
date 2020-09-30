@@ -25,9 +25,11 @@ date_format = "January 2006"
   date_start = "2019-09-01"
   date_end = ""
   description = """
+  
   * Creating a catalog of spectral properties for the SDSS Data Release 16 quasar catalog using the PyQSOFit software to fit the spectroscopy data.
   * Statistical analysis of the quasar demographics and clustering on the sky.
-  """
+  
+"""
 
 [[experience]]
   title = "Graduate Research Assistant"
@@ -37,8 +39,10 @@ date_format = "January 2006"
   date_start = "2019-01-01"
   date_end = "2019-08-01"
   description = """
+ 
   * Used ALMA observations to investigate the physical properties of the interstellar medium of three Sub-millimeter Galaxies selected from the South Pole Telescope SZ survey.
-  """
+ 
+ """
 
 [[experience]]
   title = "REU recipient"
@@ -47,9 +51,12 @@ date_format = "January 2006"
   date_start = "2017-06-01"
   date_end = "2018-02-01"
   description = """
+ 
   * Worked on the Galactic Center Orbits Initiative program using Keck NIRC observations of the galactic center in the K-band.
+ 
   * Analyized the Speckle Holography version_2_2 quantifying the improvments in image depth, and number of real stars detected.
-  """
+ 
+ """
 
 [[experience]]
   title = "Undergradute Research Assistant"
@@ -58,7 +65,9 @@ date_format = "January 2006"
   date_start = "2016-03-01"
   date_end = "2016-09-01"
   description = """
-  * Simulated gas giant formation with the code CHYMERA, whcih uses a gravitational instibility model.
+ 
+  * Simulated gas giant formation with the code CHYMERA, which uses a gravitational instibility model.
   * Focused on implementing a routine to evolve a binary protoplanetary disk system.
-  """
+ 
+ """
 +++
