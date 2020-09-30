@@ -66,6 +66,6 @@ email: ""
 user_groups: []
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Amelia Mangian is a Ph.D. candidate in Astronomy at the University of Illinois, Urbana-Champaign.  She works with Professor Yue Shen studying the statitical properties of the quasars in the Sloan Digital Sky Survey catalog.  Amelia got her undergraduate degree in physics at Lawrence University, a liberal arts college in Wisconsin.  She enjoyed taking courses in German, Classics, and theater arts along with physics and mathematics.  Her other research interests include the galactic center and observational cosmology.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Amelia is a vocal supporter of Diversity, Equity, and Inclusion efforts in astronomy, physics, and academia in general.  Her particular interests are in LGBTQ+ inclusion, accessibility, promoting mental health, and supporting students with unequal backgrounds in their high school education.  Amelia is the chair of the Society for Equity in Astronomy at UIUC and is running a tutoring program for astronomy majors who need extra help with math and physics prior to starting courses in astronomy.  At Lawrence, she served as the co-President of the Society for Physics students and was a member of the Womxn in Physics group.
