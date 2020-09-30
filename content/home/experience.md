@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "January 2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Advisor: Yue Shen"
   company_url = ""
   location = "University of Illinois, Urbana-Champaign"
-  date_start = "Sep 2019"
+  date_start = "2019-09-01"
   date_end = ""
   description = """
   * Creating a catalog of spectral properties for the SDSS Data Release 16 quasar catalog using the PyQSOFit software to fit the spectroscopy data.
@@ -34,8 +34,8 @@ date_format = "Jan 2006"
   company = "Advisor: Joaquin Vieira"
   company_url = ""
   location = "University of Illinois, Urbana-Champaign"
-  date_start = "Jan 2019"
-  date_end = "Aug 2019"
+  date_start = "2019-01-01"
+  date_end = "2019-08-01"
   description = """
   * Used ALMA observations to investigate the physical properties of the interstellar medium of three Sub-millimeter Galaxies selected from the South Pole Telescope SZ survey.
   """
@@ -44,8 +44,8 @@ date_format = "Jan 2006"
   title = "REU recipient"
   company = "Advisor: Andrea Ghez"
   location = "University of California, Los Angeles"
-  date_start = "Jun 2017"
-  date_end = "Feb 2018"
+  date_start = "2017-06-01"
+  date_end = "2018-02-01"
   description = """
   * Worked on the Galactic Center Orbits Initiative program using Keck NIRC observations of the galactic center in the K-band.
   * Analyized the Speckle Holography version_2_2 quantifying the improvments in image depth, and number of real stars detected.
@@ -55,8 +55,8 @@ date_format = "Jan 2006"
   title = "Undergradute Research Assistant"
   company = "Advisor: Megan Pickett"
   location = "Lawrence University"
-  date_start = "Mar 2016"
-  date_end = "Sep 2016"
+  date_start = "2016-03-01"
+  date_end = "2016-09-01"
   description = """
   * Simulated gas giant formation with the code CHYMERA, whcih uses a gravitational instibility model.
   * Focused on implementing a routine to evolve a binary protoplanetary disk system.
