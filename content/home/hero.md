@@ -37,7 +37,11 @@ title = "Amelia Christine Mangian"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 +++
-Queer Astronomer finding her way through grad school. Black holes (near and far), outreach, and DEI in Astronomy/Academia.
-(she/her)
 
-#<span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+
+
+
+
+Queer Astronomer finding her way through grad school. 
+Black holes (near and far), outreach, and DEI in Astronomy/Academia.
+(she/her)
