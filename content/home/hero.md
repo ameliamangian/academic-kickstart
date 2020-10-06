@@ -26,7 +26,7 @@ title = "Amelia Christine Mangian"
   # Background image.
   image = "iras.jpg"  # Name of image in `static/media/`.
   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+  image_size = "contain"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
@@ -37,5 +37,7 @@ title = "Amelia Christine Mangian"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 +++
+Queer Astronomer finding her way through grad school. Black holes (near and far), outreach, and DEI in Astronomy/Academia.
+(she/her)
 
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+#<span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
