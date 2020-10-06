@@ -36,6 +36,15 @@ title = "Amelia Christine Mangian"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
+
+[cta]
+  URL = "sea.astro.illinois.edu"
+  label = "Society for Equity in Astronomy"
+
+[cta]
+  URL = "https://astro-outlist.github.io/"
+  label = "Astro Outlist"
+
 +++
 
 
