@@ -34,7 +34,7 @@ subtitle = ""
      tag = "gal_cen"
 
    [[content.filter_button]]
-     name = "Diversity, Equity, and Inclusion"
+     name = "DEI Efforts"
      tag = "dei"
 
 [design]
