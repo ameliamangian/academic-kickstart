@@ -38,7 +38,7 @@ title = "Amelia Christine Mangian"
 #   Remove a link/note by deleting a cta/note block.
 
 [cta]
-  url = "sea.astro.illinois.edu"
+  url = "https://sea.astro.illinois.edu"
   label = "Society for Equity in Astronomy"
 
 [cta_alt]
