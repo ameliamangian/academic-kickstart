@@ -26,7 +26,7 @@ subtitle = ""
      tag = "*"
   
    [[content.filter_button]]
-     name = "Quasar Demographics"
+     name = "SDSS Quasars"
      tag = "q_dem"
   
    [[content.filter_button]]
