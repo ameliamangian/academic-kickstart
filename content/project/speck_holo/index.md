@@ -25,7 +25,7 @@ url_code=""
 [image]
 
 #Caption (optional)
-caption = "Orbits of Short Period Stars in the Galactic Center"
+caption = "Comparison of high resolution imaging techniques: (a) Shift-and-add; (b) speckle holography 2_1; (c) speckle holography 2_2; (d) AO"
 
 #Focal point (optional)
 #Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
