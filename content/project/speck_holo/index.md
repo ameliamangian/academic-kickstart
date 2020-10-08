@@ -17,7 +17,7 @@ external_link = ""
 #Links (optional).
 url_pdf=""
 url_slides=""
-url_video="static/media/GC_animation_2020.mp4"
+url_video="media/GC_animation_2020.mp4"
 url_code=""
 
 #Featured image
