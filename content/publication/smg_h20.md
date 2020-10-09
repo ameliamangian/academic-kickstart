@@ -1,10 +1,10 @@
 +++
-title = "Millimeter-wave Point Sources from the 2500 Square Degree SPT-SZ Survey: Catalog and Population Statistics"
+title = "Spatially Resolved Water Emission from Gravitationally Lensed Dusty Star-forming Galaxies at z $\sim$ 3"
 date = "2020-10-09"
 featured = false
 
 #Authors.  Comma separated list, e.g. ["Bob Smith, "David Jones"].
-authors = ["Everett, W. B.", "Zhang, L.", "Crawford, T. M.", "Vieira, J. D.", "Aravena, M.", "Archipley, M. A.", "Austermann, J. E.", "Benson, B. A.", "Bleem, L. E.", "Carlstrom, J. E.", "Chang, C. L", "Chapman, S.", "Crites, A. T.", "de Haan, T.", "Dobbs, M. A.", "George, E. M.", "Halverson, N. W.", "Harrington, N.", "Holder, G. P.", "Holzapfel, W. L.", "Hrubes, J. D.", "Knox, L.", "Lee, A. T.", "Luong-Van, D.", "Mangian, A. C.", "Marrone, D. P.", "McMahon, J. J.", "Meyer, S. S.", "Mocanu, L. M.", "Mohr, J. J.", "Natoli, T.", "Padin, S.", "Pryke, C.", "Reichardt, C. L.", "Reuter, C. A.", "Ruhl, J. E.", "Sayre, J. T.", "Schaffer, K. K.", "Shirokoff, E.", "Spilker, J. S.", "Stadler, B.", "Staniszewski, Z.", "Stark, A. A.", "Story, K. T.", "Switzer, E. R.", "Vanderlinde, K.", "Weiss, A.", "Williamson, R."]
+authors = ["Jarugula, Sreevani", 'Vieira, Joaquin D.", "Spilker, Justin S.", "Apostolovski, Yordanka", "Aravena, Manuel", "Bethermin, Matthieu", "de Breuck, Carlos", "Chen, Chian-Chou", "Cunningham, Daniel J. M.", "Dong, Chenxing", "Greve, Thomas", "Hayward, Christopher C.", "Hezaveh, Yashar", "Litke, Katrina C.", "Mangian, Amelia C.", "Narayanan, Desika", "Phadke, Kedar", "Reuter, Cassie A.", "Van der Werf, Paul", "Weiss, Axel"]
 
 #Publication type.
 #Legend:
@@ -21,7 +21,7 @@ publication_types = ["2"]
 publication = " *The Astrophysical Journal* " publication_short = "*ApJ*"
 
 #Abstract and optional shortened version.
-abstract = "We present a catalog of emissive point sources detected in the SPT-SZ survey, a contiguous 2530 square degree area surveyed with the South Pole Telescope (SPT) from 2008-2011 in three bands centered at 95, 150, and 220 GHz. The catalog contains 4845 sources measured at a significance of 4.5$\sigma$ or greater in at least one band, corresponding to detections above approximately 9.8, 5.8, and 20.4 mJy in 95, 150, and 220 GHz, respectively. The spectral behavior in the SPT bands is used for source classification into two populations based on the underlying physical mechanisms of compact, emissive sources that are bright at millimeter wavelengths: synchrotron radiation from active galactic nuclei and thermal emission from dust. The latter population includes a component of high-redshift sources often referred to as submillimeter galaxies (SMGs). In the relatively bright flux ranges probed by the survey, these sources are expected to be magnified by strong gravitational lensing. The survey also contains sources consistent with protoclusters, groups of dusty galaxies at high redshift undergoing collapse. We cross-match the SPT-SZ catalog with external catalogs at radio, infrared, and X-ray wavelengths and identify available redshift information. The catalog splits into 3980 synchrotron-dominated and 865 dust-dominated sources, and we determine a list of 506 SMGs. Ten sources in the catalog are identified as stars. We calculate number counts for the full catalog, and synchrotron and dusty components, using a bootstrap method and compare our measured counts with models. This paper represents the third and final catalog of point sources in the SPT-SZ survey."
+abstract = "Water (H$_2$O), one of the most ubiquitous molecules in the universe, has bright millimeter-wave emission lines that are easily observed at high redshift with the current generation of instruments. The low-excitation transition of H$_2$O, $p$ - H$_2$O(2$_{0,2}$-1$_{1,1}$) (ν rest = 987.927 GHz), is known to trace the far-infrared (FIR) radiation field independent of the presence of active galactic nuclei (AGNs) over many orders of magnitude in FIR luminosity $L_{FIR}$. This indicates that this transition arises mainly due to star formation. In this paper, we present spatially ($\sim$0.″5 corresponding to $\sim$ 1 kiloparsec) and spectrally resolved ($\sim 100$ kms$^{-1}$) observations of $p$ - H$_2$O(2$_{0,2}$-1$_{1,1}$) in a sample of four strong gravitationally lensed high-redshift galaxies with the Atacama Large Millimeter/submillimeter Array. In addition to increasing the sample of luminous ($>10^{12} L_{\odot}$) galaxies observed with H$_2$O, this paper examines the L_{H_{2}O}/L_{FIR} relation on resolved scales for the first time at high redshift. We find that $L_{H_{2}O} is correlated with $L_{FIR}$ on both global and resolved kiloparsec scales within the galaxy in starbursts and AGN with average $L_{H_{2}O}/L_{FIR} = {2.76}_{-1.21}^{+2.15} \times {10}-5$. We find that the scatter in the observed $L_{H_{2}O}/L_{FIR}$ relation does not obviously correlate with the effective temperature of the dust spectral energy distribution or the molecular gas surface density. This is a first step in developing $p$ - H$_2$O(2$_{0,2}$-1$_{1,1}$) as a resolved star formation rate calibrator."
 
 #Featured image thumbnail (optional)
 image_preview = ""
@@ -35,7 +35,7 @@ selected = true
 projects = []
 
 Links (optional).
-url_pdf = "https://iopscience.iop.org/article/10.3847/1538-4357/ab9df7/pdf"
+url_pdf = "https://iopscience.iop.org/article/10.3847/1538-4357/ab290d/pdf"
 #url_preprint = ""
 #url_code = ""
 #url_project = ""
@@ -56,6 +56,6 @@ highlight = true
 
 #Featured Image
 #Place your image in the static/img/ folder and reference its filename below, e.g. image = "example.jpg".
-[header] image = "South_pole_telescope_nov2009.jpg" caption = "The South Pole Telescope" #More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.
+[header] image = "alma.jpg" caption = "The Atacama Large Millimeter Array (ALMA)" #More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.
 
 +++
