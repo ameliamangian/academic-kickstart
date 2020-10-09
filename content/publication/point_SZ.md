@@ -15,7 +15,7 @@ authors = ["Everett, W. B.", "Zhang, L.", "Crawford, T. M.", "Vieira, J. D.", "A
 #6 = Book Chapter
 publication_types = ["2"]
 
-#Publication Name and optional abbreviated version
+#Publication Name and optional abbreviated version.
 publication = "The Astrophysical Journal" publication_short = "ApJ"
 
 #Abstract and optional shortened version.
@@ -37,7 +37,7 @@ url_pdf = "https://iopscience.iop.org/article/10.3847/1538-4357/ab9df7/pdf"
 #url_preprint = ""
 #url_code = ""
 #url_project = ""
-#url-slides = ""
+#url_slides = ""
 #url_video = ""
 #url_poster = ""
 #url_source = ""
