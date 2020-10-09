@@ -29,7 +29,8 @@ caption = "Sample eBOSS spectra fit with PyQSOFit"
 
 #Focal point (optional) 
 #Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight 
-#focal-point="Smart" +++
+#focal-point="Smart" 
++++
 
 I am using PyQSOFit (Guo, Shen & Wang (2018)), a spectral fitting code used to measure the spectral properties of quasars. The code simultaneously fits a power-law, polynomial, and Fe II template for the quasar continuum. The continuum subtracted spectra is then fit with multiple gaussians corresponding to the Broad Line Region (BLR) emission of the quasar. Narrow line components are also included in the line fitting routine.
 

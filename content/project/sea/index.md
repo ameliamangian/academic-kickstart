@@ -29,7 +29,8 @@ caption = ""
 
 #Focal point (optional) 
 #Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight 
-#focal-point="Smart" +++
+#focal-point="Smart" 
++++
 
 Since Spring of 2019, I am the chair of the Society for Equity in Astronomy at the University of Illinois, Urbana-Champaign (UIUC). Previously, I was a part of the group working on undergraduate engagement. Since taking over as chair, we have made strides in bringing awareness of inequalities to the faculty and supporting students from various backgrounds in their journey through the astronomy department at UIUC. Our most impactful programs are the Astronomy Cultural Journal Clubs (ACJC) and our mentorship program. We also host career development panels and workshops, and co-sponsor events with other campus organizations across disciplines.
 
