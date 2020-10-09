@@ -9,7 +9,7 @@ date = 2020-10-06T00:00:00
 summary = "Tracking stars around the Supermassive Black Hole in the center of the galaxy"
 
 #Tags: can be used for filtering projects
-tags = ["galactic_cen"]
+tags = ["gal_cen"]
 
 #Optional external URL for project (replaces project detail page).
 external_link = ""
