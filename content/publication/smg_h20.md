@@ -4,7 +4,7 @@ date = "2019-08-01T00:00:00"
 featured = false
 
 #Authors.  Comma separated list, e.g. ["Bob Smith, "David Jones"].
-authors = ["Jarugula, Sreevani", 'Vieira, Joaquin D.", "Spilker, Justin S.", "Apostolovski, Yordanka", "Aravena, Manuel", "Bethermin, Matthieu", "de Breuck, Carlos", "Chen, Chian-Chou", "Cunningham, Daniel J. M.", "Dong, Chenxing", "Greve, Thomas", "Hayward, Christopher C.", "Hezaveh, Yashar", "Litke, Katrina C.", "Mangian, Amelia C.", "Narayanan, Desika", "Phadke, Kedar", "Reuter, Cassie A.", "Van der Werf, Paul", "Weiss, Axel"]
+authors = ["Jarugula, Sreevani", "Vieira, Joaquin D.", "Spilker, Justin S.", "Apostolovski, Yordanka", "Aravena, Manuel", "Bethermin, Matthieu", "de Breuck, Carlos", "Chen, Chian-Chou", "Cunningham, Daniel J. M.", "Dong, Chenxing", "Greve, Thomas", "Hayward, Christopher C.", "Hezaveh, Yashar", "Litke, Katrina C.", "Mangian, Amelia C.", "Narayanan, Desika", "Phadke, Kedar", "Reuter, Cassie A.", "Van der Werf, Paul", "Weiss, Axel"]
 
 #Publication type.
 #Legend:
