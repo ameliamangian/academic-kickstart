@@ -37,7 +37,7 @@ projects = []
 
 #Links (optional).
 url_pdf = ""
-#url_preprint = "https://arxiv.org/pdf/1909.12554.pdf"
+url_preprint = "https://arxiv.org/pdf/1909.12554.pdf"
 #url_code = ""
 #url_project = ""
 #url_slides = ""
