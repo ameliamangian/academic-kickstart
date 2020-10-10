@@ -57,6 +57,9 @@ highlight = true
 
 #Featured Image
 #Place your image in the static/img/ folder and reference its filename below, e.g. image = "example.jpg".
-[header] image = "South_pole_telescope_nov2009.jpg" caption = "The South Pole Telescope" #More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.
+[header] 
+image = "South_pole_telescope_nov2009.jpg" 
+caption = "The South Pole Telescope" 
+#More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.
 
 +++

@@ -57,6 +57,9 @@ highlight = true
 
 #Featured Image
 #Place your image in the static/img/ folder and reference its filename below, e.g. image = "example.jpg".
-[header] image = "Starburst-I.jpg" caption = "A gravitationally lensed sub-millimeter galaxy from Hubble (blue) and ALMA (red) (Y. Hezaveh)" #More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.
+[header] 
+image = "Starburst-I.jpg" 
+caption = "A gravitationally lensed sub-millimeter galaxy from Hubble (blue) and ALMA (red) (Y. Hezaveh)" 
+#More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.
 
 +++
