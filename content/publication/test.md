@@ -1,4 +1,7 @@
-+++ title = "Wide Field Map of Globular Clusters in Coma" date = "2018-10-01" featured = true
++++ 
+title = "Wide Field Map of Globular Clusters in Coma" 
+date = "2018-10-01" 
+featured = true
 
 #Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
 authors = ["Juan P. Madrid", "Conor R. O'Neill", "Alexander T. Gagliano", "Joshua R. Marvil"]
