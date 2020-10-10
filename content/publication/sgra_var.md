@@ -35,7 +35,7 @@ selected = true
 #Simply enter the filename (excluding '.md') of your project file in content/project/.
 projects = ["speck_holo"]
 
-Links (optional).
+#Links (optional).
 url_pdf = "https://iopscience.iop.org/article/10.3847/2041-8213/ab3c68/pdf"
 #url_preprint = ""
 #url_code = ""

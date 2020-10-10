@@ -35,7 +35,7 @@ selected = true
 #Simply enter the filename (excluding '.md') of your project file in content/project/.
 projects = []
 
-Links (optional).
+#Links (optional).
 url_pdf = ""
 #url_preprint = "https://arxiv.org/pdf/1909.12554.pdf"
 #url_code = ""

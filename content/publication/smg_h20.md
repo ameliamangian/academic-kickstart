@@ -35,7 +35,7 @@ selected = true
 #Simply enter the filename (excluding '.md') of your project file in content/project/.
 projects = []
 
-Links (optional).
+#Links (optional).
 url_pdf = "https://iopscience.iop.org/article/10.3847/1538-4357/ab290d/pdf"
 #url_preprint = ""
 #url_code = ""
