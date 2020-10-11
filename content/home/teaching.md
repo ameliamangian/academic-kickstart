@@ -17,7 +17,7 @@ weight = 100
 
 Teaching Assistant:
 
- UIUC
+ - UIUC
   
   * ASTR 405: Planetary Systems (Spring 2020)
     
@@ -25,7 +25,7 @@ Teaching Assistant:
     
   * PHYS 211: University Physics: Mechanics (Spring 2019)
   
- Lawrence University
+ - Lawrence University
   
   * PHYS 225: Computational Mechanics (Winter 2018)
     
