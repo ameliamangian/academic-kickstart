@@ -30,7 +30,7 @@ Teaching Assistant:
     
     - PHYS 141/151: Introductory Physics I/II
 
-Tutoring:
+  Tutoring:
 
     - Head of the Astronomy Department Tutoring Program at UIUC
     
@@ -38,7 +38,7 @@ Tutoring:
     
     - VITAL tutor at Lawrence (Algebra tutor for local high schoolers)
 
-Outreach:
+  Outreach:
 
     - Member of the Astro Illini outreach group
     
