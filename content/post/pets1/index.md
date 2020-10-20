@@ -1,5 +1,5 @@
 ---
-title: 'The Piggy Pair and Horchata Too!'
+title: 'The Piggy Pair and Horchata Too'
 subtitle: 'Amelia's Petting Zoo'
 summary: Come meet the animals that help Amelia not lose her mind when she's trying to work.  Cute pictures can assuredly be found here.
 authors:
@@ -7,7 +7,7 @@ authors:
 tags: []
 categories: []
 date: "2020-10-19T00:00:00"
-lastmod: "2020-10-19T00:00:00Z"
+lastmod: "2020-10-19T00:00:00"
 featured: false
 draft: false
 
